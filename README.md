@@ -19,10 +19,3 @@
 * Menu driven CLI interface
 * Automated CLI interface
 
-## EXAMPLES:
-
-### DEFAULT USAGE:
-```./disks```
-
-### AUTOMATED USAGE:
-```./disks scheme```
