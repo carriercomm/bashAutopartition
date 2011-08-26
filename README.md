@@ -10,10 +10,10 @@
 ## REQUIREMENTS:
 * fdisk
 * mkfs.reiserfs
-* mount"
+* mount
 * mkdir
-* mkswap"
-* swapon"
+* mkswap
+* swapon
 
 ## FEATURES:
 * Menu driven CLI interface
