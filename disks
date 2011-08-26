@@ -88,6 +88,8 @@ ShowAbout()
  echo
  echo "Usage: ./disks default | extended | logical"
  echo
+ echo "Currently available partition schemes"
+ echo
  ShowMenu
 return
 }
