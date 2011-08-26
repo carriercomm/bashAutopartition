@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Gentoo stage4 installer
+# bashAutopartition
 # Jason Gerfen <jason.gerfen@gmail.com>
 
 PATH="/bin:/usr/bin:/sbin:/usr/sbin"
@@ -84,10 +84,7 @@ return
 
 ShowAbout()
 {
- echo "Gentoo Stage4 Installation Script"
- echo "Created: 02/01/2007"
- echo "Author: Jason Gerfen"
- echo "Email: <jason.gerfen@gmail.com>"
+ echo "bashAutopartition <jason.gerfen@gmail.com>"
  echo
  echo "Usage: ./disks default | extended | logical"
  echo
