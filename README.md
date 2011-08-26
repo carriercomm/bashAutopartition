@@ -25,4 +25,4 @@
 ```./disks```
 
 ### AUTOMATED USAGE:
-```./disks scheme
+```./disks scheme```
